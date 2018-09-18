@@ -1,6 +1,6 @@
 # FriendFinder - Node and Express Servers
 
-Welcome to Friend Finder! Please answer the following questions so that we would match it to the database and we will help you find the prefect friend. A match make in heaven ;)
+Welcome to Friend Finder! Please answer the following questions so that we will match it to the database and help you find the perfect friend. A match made in heaven ;)
 
 ### Initial screen:
 
@@ -13,7 +13,7 @@ Click on Start Survey
 
 ![surveyq](https://user-images.githubusercontent.com/38407626/45654809-48e5e500-baab-11e8-93d8-1c2d1a59bfc3.PNG)
 
-There are 10 questions to evaluat your answers against our file. The way we determine the match is by taking each of your answers and compared them with every answer we have from every person in the file.  
+There are 10 questions to evaluate your answers against our file. The way we determine the match is by taking each of your answers and comparing them with every answer we have from every person in the file.  
 For example: - User 1: `[5, 1, 4, 4, 5, 1, 2, 5, 4, 1]` - User 2: `[3, 2, 6, 4, 5, 1, 2, 5, 4, 1]` - Total Difference: **2 + 1 + 2 =** **_5_**
 - The closest match will be the user with the least amount of difference.
 
