@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Welcome to Friend Finder! Please answer the following questions so that we would match it to the database and we will help you find the prefect friend. A match make in heaven :)",
   "main": "server.js",
+  "engines": {
+    "node": "v8.11.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
