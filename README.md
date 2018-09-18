@@ -2,11 +2,13 @@
 
 Welcome to Friend Finder! Please answer the following questions so that we will match it to the database and help you find the perfect friend. A match made in heaven ;)
 
+
 ### Initial screen:
 
 ![initialscr](https://user-images.githubusercontent.com/38407626/45654817-556a3d80-baab-11e8-80ea-54226dc60705.PNG)
 
 Click on Start Survey
+
 
 
 ### Survey screen:
@@ -18,6 +20,7 @@ For example: - User 1: `[5, 1, 4, 4, 5, 1, 2, 5, 4, 1]` - User 2: `[3, 2, 6, 4, 
 - The closest match will be the user with the least amount of difference.
 
 
+
 ### Results screen:
 
 ![friend result](https://user-images.githubusercontent.com/38407626/45655082-623b6100-baac-11e8-9e64-5bf5456a2809.PNG)
@@ -25,7 +28,8 @@ For example: - User 1: `[5, 1, 4, 4, 5, 1, 2, 5, 4, 1]` - User 2: `[3, 2, 6, 4, 
 Once we have found the person most compatible to you, it will appear a pop-up window with the name and picture of the closest match.
 
 
-### API Link Friends screen:
+
+### API Friends List screen:
 
 ![resultssaved](https://user-images.githubusercontent.com/38407626/45655084-69626f00-baac-11e8-840f-da60d0b4c08a.PNG)
 
